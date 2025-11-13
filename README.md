@@ -34,8 +34,9 @@
 
 </div>
 
-<h3> Minha conta principal </h3>
-<a href="https://www.github.com/lumikinho">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" alt="Github Principal">
-</a>
-
+<div align="center" >
+    <h2> Minha conta principal </h3>
+    <a href="https://www.github.com/lumikinho">
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" alt="Github Principal">
+    </a>
+</div>
