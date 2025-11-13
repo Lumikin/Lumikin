@@ -1,6 +1,6 @@
 <p align="center">
     <a href="">
-        <img src="https://i.pinimg.com/originals/47/fb/30/47fb305919c1a50a4af495f9d0d646e8.gif" alt="Ralsei"
+        <img src="https://i.pinimg.com/originals/2f/43/76/2f437614d7fa7239696a8b34d5e41769.gif" alt="Ralsei"
             width="600">
     </a>
 </p>
