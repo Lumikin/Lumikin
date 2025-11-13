@@ -1,6 +1,6 @@
 <p align="center">
     <a href="">
-        <img src="https://i.pinimg.com/originals/2f/43/76/2f437614d7fa7239696a8b34d5e41769.gif" alt="Ralsei"
+        <img src="https://64.media.tumblr.com/2c8f7766c5a201f8b6055755664e3784/624f08599cacc9ca-ab/s640x960/839ef97e66d956c3cd91523e6078438444eb9834.gifv" alt="Furina"
             width="600">
     </a>
 </p>
