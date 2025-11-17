@@ -1,6 +1,6 @@
 <p align="center">
     <a href="">
-        <img src="https://64.media.tumblr.com/2c8f7766c5a201f8b6055755664e3784/624f08599cacc9ca-ab/s640x960/839ef97e66d956c3cd91523e6078438444eb9834.gifv" alt="Furina"
+        <img src="./Assets/HiiFurina.gif" alt="Furina"
             width="600">
     </a>
 </p>
@@ -40,3 +40,11 @@
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" alt="Github Principal">
     </a>
 </div>
+
+<p align="center"> No mundo real, nós testemunhamos muitas flores que secam, chuvas das quais não se pode escapar, e despedidas que jamais parecem fáceis </p>
+<p align="center">
+    <a href="">
+        <img src="./Assets/FurinaGif.gif" alt="Furina"
+            width="600">
+    </a>
+</p>
