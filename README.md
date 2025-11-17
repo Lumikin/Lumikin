@@ -40,11 +40,3 @@
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" alt="Github Principal">
     </a>
 </div>
-
-<p align="center"> No mundo real, nós testemunhamos muitas flores que secam, chuvas das quais não se pode escapar, e despedidas que jamais parecem fáceis </p>
-<p align="center">
-    <a href="">
-        <img src="./Assets/FurinaGif.gif" alt="Furina"
-            width="600">
-    </a>
-</p>
