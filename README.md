@@ -13,7 +13,7 @@
     </details>
     <details>
         <summary> <strong> Frameworks </strong></summary>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,nodemon,electron,react,reactnative" alt="">
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,nodemon,electron,react,reactnative,expo" alt="">
     </details>
     </details>
     <details>
