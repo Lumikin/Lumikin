@@ -13,12 +13,12 @@
     </details>
     <details>
         <summary> <strong> Frameworks </strong></summary>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,nodemon,electron" alt="">
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,nodemon,electron,react,reactnative" alt="">
     </details>
     </details>
     <details>
         <summary> <strong> Ferramentas </strong></summary>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=insomnia,visualstudiocode" alt="">
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=insomnia,visualstudiocode,androidstudio" alt="">
     </details>
     </details>
 
