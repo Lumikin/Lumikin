@@ -1,16 +1,6 @@
-<p align="center">
-    <a href="">
-        <img src="./Assets/HiiFurina.gif" alt="Furina"
-            width="600">
-    </a>
-</p>
-<p align="center">
-    <i> <small>Furina from Genshin Impact</small> </i>
-</p>
-
 <div align="center">
     <h2> Myself </h2>
-    <ul> Eu sou o lumiko essa é a minha conta aonde contem os projetos feitos dentro do SENAI </ul>
+    <ul>  Conta que contem os projetos feitos dentro do SENAI </ul>
     <ul> Curso Senai: Desenvolvimento de Sistemas (DS) </ul>
     <ul> <strong> <small>⚠️ Essa conta não havera projetos pessoais! ⚠️</small></strong></ul>
 </div>
